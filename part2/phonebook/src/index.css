@@ -1,0 +1,23 @@
+.info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: green;
+  background-color: #d3d3d3;
+  border: 3px solid green;
+  border-radius: 5px;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.error {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: red;
+  background-color: #d3d3d3;
+  border: 3px solid red;
+  border-radius: 5px;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
